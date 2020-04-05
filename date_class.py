@@ -1,8 +1,3 @@
-#
-# ps8pr2.py  (Problem Set 8, Problem 2)
-#
-# A class to represent calendar dates       
-#
 
 class Date:
     """ A class that stores and manipulates dates that are
